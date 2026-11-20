@@ -6,6 +6,7 @@ I build backend services and distributed systems with **Java, Spring Boot and mi
 frontends that sit on top of them with **Angular and React**. Lately I've been going deeper into
 **event-driven architecture** (Kafka, RabbitMQ) and **applied AI** (RAG pipelines, Spring AI).
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=flat&logo=vercel&logoColor=white)](https://sravani-n.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sravani-n-417s987)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sravaninimmisetty1@gmail.com)
 
